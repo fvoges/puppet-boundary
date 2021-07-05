@@ -1,0 +1,3 @@
+---
+boundary::manage_repo: true
+boundary::repo_url: 'https://rpm.releases.hashicorp.com/RHEL'

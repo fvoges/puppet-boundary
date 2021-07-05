@@ -1,0 +1,13 @@
+---
+boundary::repo_name: 'hashicorp'
+boundary::repo_description: 'HashiCorp public repository'
+boundary::repo_gpg_key_url: 'https://rpm.releases.hashicorp.com/gpg'
+boundary::repo_gpg_key: 'E8A032E094D8EB4EA189D270DA418C88A3219F7B'
+boundary::repo_gpg_key_server: 'keys.openpgp.org'
+boundary::package_name: 'boundary'
+# boundary::package_provider: undef
+boundary::package_version: 'present'
+boundary::config_path: '/etc/boundary.d'
+boundary::config_file: 'config.hcl'
+boundary::service_name: 'boundary'
+

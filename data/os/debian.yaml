@@ -1,0 +1,3 @@
+---
+boundary::manage_repo: true
+boundary::repo_url: 'https://apt.releases.hashicorp.com/%{lookup(os.distro.codename)}'

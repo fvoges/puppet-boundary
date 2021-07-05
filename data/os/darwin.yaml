@@ -1,0 +1,6 @@
+---
+boundary::manage_repo: false
+boundary::repo_url: ''
+boundary::repo_provider: 'hashicorp/tap'
+boundary::package_provider: 'brew'
+
