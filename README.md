@@ -1,6 +1,6 @@
 # puppet-boundary
 
-[![Build Status](https://travis-ci.org/fvoges/puppet-boundary.svg)](https://travis-ci.org/fvoges/puppet-boundary)
+[![Build Status](https://travis-ci.com/fvoges/puppet-boundary.svg)](https://travis-ci.com/fvoges/puppet-boundary)
 
 > **WARNING:** This code is untested and incomplete. You shouldn't be using this, yet.
 
